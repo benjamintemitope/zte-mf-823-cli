@@ -7,10 +7,10 @@ A command line interface to interact with ZTE MF 823.
 [Earthweb Post](https://earthweb.com/curl/.) 
 
 ## Snapshots
-| ![Main Menu](snapshots\MainMenu.png "Main Menu") |
+| ![Main Menu](./snapshots/MainMenu.png "Main Menu") |
 |:--:|
 | **Main Menu** |
 
-| ![Sub Menu](snapshots\SubMenu.png "Sub Menu") |
+| ![Sub Menu](./snapshots/SubMenu.png "Sub Menu") |
 |:--:|
 | **Sub Menu** | 
